@@ -4,9 +4,5 @@
     --bg-color:rgb(255, 204, 112) ;
     --primary-color:rgb(255, 250, 221) ;
     --secondary-color:rgb(34, 102, 141);
-    --font: ““Nunito Sans”, sans-serif;;
-}
-
-body {
-    background-color: var(--bg-color);
+    --font: ““Nunito Sans”, sans-serif;
 }
