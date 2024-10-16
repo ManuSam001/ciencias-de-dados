@@ -10,4 +10,11 @@ async function visualizarInformacoesGlobais() {
 
 }
 
-visualizarInformacoesGlobais()
+visualizarInformacoesGlobais() {
+const res = await fetch(url)
+const dados = await res.json()
+cosole.log(dados);
+const paragrafo = document.createElement('p')
+}
+
+vizualizarInformacoesGlobais()
