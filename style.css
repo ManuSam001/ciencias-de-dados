@@ -15,7 +15,7 @@ body {
     margin: 0;
 }
 
-/* código omitido */
+
 
 h1 {
     font-size: 2rem;
@@ -23,7 +23,7 @@ h1 {
     font-weight: 700;
 }
 
-/* código omitido */
+
 
 nav {
     display: flex;
@@ -31,7 +31,7 @@ nav {
     font-weight: 400;
 }
 
-/* código omitido */
+
 
 nav a {
     text-decoration: none;
@@ -39,7 +39,7 @@ nav a {
     margin: 0rem 2rem 1rem 0rem;
 }
 
-/* código omitido */
+
 
 header {
     background-color: var(--primary-color);
@@ -47,9 +47,6 @@ header {
     padding: 1px;
 }
 
-/* código omitido */
-
-/* código omitido */
 
 nav a {
     text-decoration: none;
@@ -58,7 +55,7 @@ nav a {
      font-size: 1.2rem;
 }
 
-/* código omitido */
+
 
 nav a:hover {
     text-decoration: underline;
@@ -66,7 +63,7 @@ nav a:hover {
     transition: transform 0.1s;
 }
 
-/* código omitido */
+
 
 footer {
     display: flex;
