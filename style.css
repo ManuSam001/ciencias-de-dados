@@ -52,6 +52,12 @@ nav a:hover {
     transition: transform 0.1s;
 }
 
+<<<<<<< HEAD
+.graficos-container {
+    margin: 5rem;
+   }   
+
+=======
 .graficos-container_texto {
     font-size: 1.3rem;
     text-align: center;
@@ -59,6 +65,7 @@ nav a:hover {
     border: var(--secondary-color) solid 2px;
   }
   
+>>>>>>> 3453c47e1fd9eb5fa18c5e9f543cd9059a69ad0a
 footer {
     display: flex;
     align-items: center;
